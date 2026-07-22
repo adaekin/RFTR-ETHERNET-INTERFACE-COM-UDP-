@@ -1,0 +1,2 @@
+../Core/Src/udpserver.c:10:6:udp_receive_callback	2
+../Core/Src/udpserver.c:22:6:udpServer_init	2
